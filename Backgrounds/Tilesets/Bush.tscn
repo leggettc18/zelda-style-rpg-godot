@@ -13,7 +13,7 @@ position = Vector2( 0, -4 )
 texture = ExtResource( 1 )
 hframes = 16
 vframes = 18
-frame = 182
+frame = 181
 region_filter_clip = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
