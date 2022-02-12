@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/16 - Melancholia.ogg-80c1541dd3f69841ce8a7eeff3c37dec.oggstr"
+
+[deps]
+
+source_file="res://Musics/16 - Melancholia.ogg"
+dest_files=[ "res://.import/16 - Melancholia.ogg-80c1541dd3f69841ce8a7eeff3c37dec.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

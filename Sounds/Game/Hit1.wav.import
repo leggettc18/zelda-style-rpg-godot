@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hit1.wav-03a5771706e7a23c6fab672a51c762ae.sample"
+
+[deps]
+
+source_file="res://Sounds/Game/Hit1.wav"
+dest_files=[ "res://.import/Hit1.wav-03a5771706e7a23c6fab672a51c762ae.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/12 - Temple.ogg-5ac870635ebb63a98200854646723f9b.oggstr"
+
+[deps]
+
+source_file="res://Musics/12 - Temple.ogg"
+dest_files=[ "res://.import/12 - Temple.ogg-5ac870635ebb63a98200854646723f9b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

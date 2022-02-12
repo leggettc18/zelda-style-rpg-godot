@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/3 - Revelation.ogg-d269c09ed2d4e0494e67d15b189d9f29.oggstr"
+
+[deps]
+
+source_file="res://Musics/3 - Revelation.ogg"
+dest_files=[ "res://.import/3 - Revelation.ogg-d269c09ed2d4e0494e67d15b189d9f29.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

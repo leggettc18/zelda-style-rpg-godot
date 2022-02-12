@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Magic3.wav-f2bf8ea5fce885434c41f3f612e6ae50.sample"
+
+[deps]
+
+source_file="res://Sounds/Game/Magic3.wav"
+dest_files=[ "res://.import/Magic3.wav-f2bf8ea5fce885434c41f3f612e6ae50.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

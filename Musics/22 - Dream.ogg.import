@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/22 - Dream.ogg-a7d48b099e01c2d45e5e7fac3c5ed26d.oggstr"
+
+[deps]
+
+source_file="res://Musics/22 - Dream.ogg"
+dest_files=[ "res://.import/22 - Dream.ogg-a7d48b099e01c2d45e5e7fac3c5ed26d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

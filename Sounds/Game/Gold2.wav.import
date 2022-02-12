@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Gold2.wav-dc7bb972d22428956b39d6cf7caec982.sample"
+
+[deps]
+
+source_file="res://Sounds/Game/Gold2.wav"
+dest_files=[ "res://.import/Gold2.wav-dc7bb972d22428956b39d6cf7caec982.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
