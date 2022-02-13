@@ -56,3 +56,4 @@ func attack_state():
 
 func attack_animation_finished():
 	state = MOVE
+
